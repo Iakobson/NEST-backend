@@ -9,6 +9,7 @@
 + [DOCEMENTATION](https://docs.nestjs.com/)
 + [COURSES](https://courses.nestjs.com/)
 
+#### Server-Side Rendering (SSR)
 > _ви можете розглянути Nest.js для побудови більших та більш складних додатків, якщо вам зручніше працювати з TypeScript і структурованим підходом до розробки_
 
 - - -
